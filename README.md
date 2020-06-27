@@ -12,3 +12,10 @@
 7. Basic Visualization (S4)
 8. Advanced Visualization (S4)
 9. Descriptive Statistics (S5)
+10. Descriptive Statistics: Correlation & Z Score (S10)
+11. Inferential Statistics (S11)
+12. Regression Models (S12)
+13. Classification 1 (S13)
+14. Classification 2 (S14)
+15. Unsupervised (S15)
+16. Final Projects
